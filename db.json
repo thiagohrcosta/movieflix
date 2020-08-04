@@ -1,0 +1,173 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Ação e Aventura",
+      "link": "/",
+      "cor": "#6BD1FF",
+      "videos": [
+        {
+          "id": 1,
+          "categoriaId": 1,
+          "titulo": "First Blood",
+          "anoLancamento": 1982,
+          "nota": 7.7,
+          "atorPrincipal": "Sylvester Stallone",
+          "url": "https://www.youtube.com/watch?v=IAqLKlxY3Eo&t=26s"
+
+        },
+        {
+          "id": 2,
+          "categoriaId": 1,
+          "titulo": "Die Hard",
+          "anoLancamento": 1988,
+          "nota": 8.2,
+          "atorPrincipal": "Bruce Willis",
+          "url": "https://www.youtube.com/watch?v=jaJuwKCmJbY&t=14s"
+        },
+        {
+          "id": 3,
+          "categoriaId": 1,
+          "titulo": "The Terminator",
+          "anoLancamento": 1984,
+          "nota": 8.0,
+          "atorPrincipal": "Arnold Schwarzenegger",
+          "url": "https://www.youtube.com/watch?v=k64P4l2Wmeg"
+        },
+        {
+          "id": 4,
+          "categoriaId": 1,
+          "titulo": "Rocky",
+          "anoLancamento": 1976,
+          "nota": 8.1,
+          "atorPrincipal": "Sylvester Stallone",
+          "url": "https://www.youtube.com/watch?v=7RYpJAUMo2M"
+        },
+        {
+          "id": 5,
+          "categoriaId": 1,
+          "titulo": "Raiders of the Lost Ark",
+          "anoLancamento": 1981,
+          "nota": 8.4,
+          "atorPrincipal": "Harrison Ford",
+          "url": "https://www.youtube.com/watch?v=XkkzKHCx154"
+        },
+        {
+          "id": 6,
+          "categoriaId": 1,
+          "titulo": "Letal Weapon",
+          "anoLancamento": 1987,
+          "nota": 7.6,
+          "atorPrincipal": "Mel Gibson",
+          "url": "https://www.youtube.com/watch?v=bKeW-MGu-qQ&t=2s"
+        },
+        {
+          "id": 7,
+          "categoriaId": 1,
+          "titulo": "Fist of Fury",
+          "anoLancamento": 1972,
+          "nota": 7.4,
+          "atorPrincipal": "Bruce Lee",
+          "url": "https://www.youtube.com/watch?v=w_4RjSbSIFY"
+        },
+        {
+          "id": 8,
+          "categoriaId": 1,
+          "titulo": "Above the Law",
+          "anoLancamento": 1988,
+          "nota": 6.0,
+          "atorPrincipal": "Steven Seagal",
+          "url": "https://www.youtube.com/watch?v=BsbYE-Q474I"
+        }        
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Super-Heróis",
+      "link": "/",
+      "cor": "#00C86F",
+      "videos": [
+        {
+          "id": 1,
+          "categoriaId": 2,
+          "titulo": "Superman",
+          "anoLancamento": 1978,
+          "nota": 7.3,
+          "atorPrincipal": "Christopher Reeve",
+          "url": "https://www.youtube.com/watch?v=MNwUEw0HEY0"
+        },
+        {
+          "id": 2,
+          "categoriaId": 2,
+          "titulo": "Batman",
+          "anoLancamento": 1989,
+          "nota": 7.5,
+          "atorPrincipal": "Michael Keaton",
+          "url": "https://www.youtube.com/watch?v=VRqa47-jv0M"
+        },
+        {
+          "id": 3,
+          "categoriaId": 2,
+          "titulo": "Superman 2",
+          "anoLancamento": 1980,
+          "nota": 6.8,
+          "atorPrincipal": "Christopher Reeve",
+          "url": "https://www.youtube.com/watch?v=pduQsxB9QX0"
+        },
+        {
+          "id": 4,
+          "categoriaId": 2,
+          "titulo": "Batman Returns",
+          "anoLancamento": 1992,
+          "nota": 7.0,
+          "atorPrincipal": "Michael Keaton",
+          "url": "https://www.youtube.com/watch?v=Too3qgNaYBE"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "Comédia",
+      "link": "/",
+      "cor": "#01caca",
+      "videos": [
+        {
+          "id": 1,
+          "categoriaId": 3,
+          "titulo": "Police Academy",
+          "anoLancamento": 1984,
+          "nota": 6.7,
+          "atorPrincipal": "Steve Guttenberg",
+          "url": "https://www.youtube.com/watch?v=k4aedBBko4M"
+        },
+        {
+          "id": 2,
+          "categoriaId": 3,
+          "titulo": "Bean",
+          "anoLancamento": 1997,
+          "nota": 6.5,
+          "atorPrincipal": "Rowan Atkinson",
+          "url": "https://www.youtube.com/watch?v=nL94tb3hS1I&t=4s"
+        },
+        {
+          "id": 3,
+          "categoriaId": 3,
+          "titulo": "Junior",
+          "anoLancamento": 1994,
+          "nota": 4.6,
+          "atorPrincipal": "Arnold Schwarzenegger",
+          "url": "https://www.youtube.com/watch?v=nOaA21MMuNY"
+        },
+        {
+          "id": 4,
+          "categoriaId": 3,
+          "titulo": "Look Who´s Talking Now",
+          "anoLancamento": 1993,
+          "nota": 4.4,
+          "atorPrincipal": "John Travolta",
+          "url": "https://www.youtube.com/watch?v=nOaA21MMuNY"
+        } 
+      ]
+  }
+]
+}

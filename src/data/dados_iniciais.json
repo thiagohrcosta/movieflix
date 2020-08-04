@@ -1,0 +1,214 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Ação e Aventura",
+      "link": "/",
+      "cor": "#6BD1FF",
+      "videos": [
+        {
+          "titulo": "First Blood",
+          "anoLancamento": 1982,
+          "nota": 7.7,
+          "atorPrincipal": "Sylvester Stallone",
+          "url": "https://www.youtube.com/watch?v=IAqLKlxY3Eo&t=26s"
+
+        },
+        {
+          "titulo": "Die Hard",
+          "anoLancamento": 1988,
+          "nota": 8.2,
+          "atorPrincipal": "Bruce Willis",
+          "url": "https://www.youtube.com/watch?v=jaJuwKCmJbY&t=14s"
+        },
+        {
+          "titulo": "The Terminator",
+          "anoLancamento": 1984,
+          "nota": 8.0,
+          "atorPrincipal": "Arnold Schwarzenegger",
+          "url": "https://www.youtube.com/watch?v=k64P4l2Wmeg"
+        },
+        {
+          "titulo": "Rocky",
+          "anoLancamento": 1976,
+          "nota": 8.1,
+          "atorPrincipal": "Sylvester Stallone",
+          "url": "https://www.youtube.com/watch?v=7RYpJAUMo2M"
+        },
+        {
+          "titulo": "Raiders of the Lost Ark",
+          "anoLancamento": 1981,
+          "nota": 8.4,
+          "atorPrincipal": "Harrison Ford",
+          "url": "https://www.youtube.com/watch?v=XkkzKHCx154"
+        },
+        {
+          "titulo": "Letal Weapon",
+          "anoLancamento": 1987,
+          "nota": 7.6,
+          "atorPrincipal": "Mel Gibson",
+          "url": "https://www.youtube.com/watch?v=bKeW-MGu-qQ&t=2s"
+        },
+        {
+          "titulo": "Fist of Fury",
+          "anoLancamento": 1972,
+          "nota": 7.4,
+          "atorPrincipal": "Bruce Lee",
+          "url": "https://www.youtube.com/watch?v=w_4RjSbSIFY"
+        },
+        {
+          "titulo": "Above the Law",
+          "anoLancamento": 1988,
+          "nota": 6.0,
+          "atorPrincipal": "Steven Seagal",
+          "url": "https://www.youtube.com/watch?v=BsbYE-Q474I"
+        }        
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Super-Heróis",
+      "link": "/",
+      "cor": "#00C86F",
+      "videos": [
+        {
+          "titulo": "Superman",
+          "anoLancamento": 1978,
+          "nota": 7.3,
+          "atorPrincipal": "Christopher Reeve",
+          "url": "https://www.youtube.com/watch?v=MNwUEw0HEY0"
+        },
+        {
+
+          "titulo": "Batman",
+          "anoLancamento": 1989,
+          "nota": 7.5,
+          "atorPrincipal": "Michael Keaton",
+          "url": "https://www.youtube.com/watch?v=VRqa47-jv0M"
+        },
+        {
+          "titulo": "Superman 2",
+          "anoLancamento": 1980,
+          "nota": 6.8,
+          "atorPrincipal": "Christopher Reeve",
+          "url": "https://www.youtube.com/watch?v=pduQsxB9QX0"
+        },
+        {
+          "titulo": "Batman Returns",
+          "anoLancamento": 1992,
+          "nota": 7.0,
+          "atorPrincipal": "Michael Keaton",
+          "url": "https://www.youtube.com/watch?v=Too3qgNaYBE"
+        }
+      ]
+    },
+    {
+      "titulo": "Data Science e Inteligência Artificial",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        },
+        {
+          "titulo": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+        },
+        {
+          "titulo": "Melhor forma de aprender Python",
+          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+        },
+        {
+          "titulo": "Como ingressar no mercado de Data Science?",
+          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
