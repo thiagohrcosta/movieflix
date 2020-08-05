@@ -27,4 +27,4 @@ Projeto **MOVIETRAILER** desenvolvido durante a *Semana Alura React* com o objet
 - Criação de página de cadastro de novos filmes
 
 ## Confira o projeto em execução
-Acesse o Projeto direto em seu navegador clicando [AQUI](https://imersao-react-snowy.vercel.app/).
+Acesse o Projeto direto em seu navegador clicando [AQUI](https://movieflix-alpha.vercel.app/).
